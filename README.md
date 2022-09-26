@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Sympha Fresh](http://symphafresh.com/) Ecommerce using flask, KOLEKTA app and [ALX](https://www.alxafrica.com/) Software Engineering Program
+- 🔭 I’m currently working on [Sympha Fresh](http://symphafresh.com/) Ecommerce using flask, I'm also part of the team working on KOLEKTA app and I'm in my second sprint of [ALX](https://www.alxafrica.com/) Software Engineering Program
 - 🌱 I’m currently learning C, Python and specifically it's FLask Framework
 - 👯 I’m looking to collaborate on Web3, Fintech, Data-related projects
 - 🤔 I’m looking for gigs
