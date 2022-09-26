@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web3, Fintech, Data-related projects
 - 🤔 I’m looking for gigs
 - 📫 Reach out on [🐤Twitter](https://twitter.com/Bongwe_Obaga), [Linked In](https://www.linkedin.com/in/bongwe-obaga/), [🌐Visit my website](http://bongwe.space/) Feedback on improvements will be appreciated, or email me at bongwe126@outlook.com
-- 💬 Ask me about Python Programming, Web Design, Startups, Rotary International
+- 💬 Ask me about Python Programming, Web Design, Startups, or Rotary International
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code for fun and for profit.
