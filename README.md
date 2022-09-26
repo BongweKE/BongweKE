@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python Programming, Web Design, Startups, or Rotary International
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code for fun and for profit.
+
+> You borrow from the greats, and you make your own path without losing the core of who you are.
+~ Michael B. Jordan
