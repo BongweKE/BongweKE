@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Emmanuel Bongwe Obaga
 #### A *Fullstack Software Developer*
-![Photo Of Bongwe](./ProPic.png "Bongwe's Professional Image")
+![Photo Of Bongwe](./proPic.png "Bongwe's Professional Image")
 <!--
 **BongweKE/BongweKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
