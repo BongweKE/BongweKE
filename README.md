@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Emmanuel Bongwe Obaga
+#### I'm Bongwe Obaga
 #### A *Fullstack Software Developer*
 ![Photo Of Bongwe](./proPic.png "Bongwe's Professional Image")
 <!--
