@@ -1,3 +1,24 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = "paper"
+paginate = 5
+title = 'BongweKE Tech Blog'
+
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'x.com/Bongwe_Obaga'               # twitter.com/YOUR_TWITTER_ID
+  github = 'github.com/BongweKE'                 # github.com/YOUR_GITHUB_I
+  
+ 
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = false              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+ 
+  math = true
+  comments = false                            # disable comments for a specific page
