@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ish on BongweKE Tech Blog</title>
+    <link>http://localhost:1313/tags/ish/</link>
+    <description>Recent content in Ish on BongweKE Tech Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Obsidian Notes on Iphone</title>
+      <link>http://localhost:1313/posts/obsidian-iphone-with-backups/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/obsidian-iphone-with-backups/</guid>
+      <description>&lt;h3 id=&#34;1-setup-github-in-ish&#34;&gt;1. Setup GitHub in ish&lt;/h3&gt;&#xA;&lt;p&gt;Download iSH app to your iPhone and install github&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ apk add git&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Once git is install follow the tutorial to setup  [[Github SSH]]&lt;/p&gt;&#xA;&lt;p&gt;This will enable you to have your own backups of obsidian using open source github version control&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-make-an-obsidian-folder&#34;&gt;2. Make an obsidian folder&lt;/h3&gt;&#xA;&lt;p&gt;Create a folder for obsidian notes on your iphone using the icloud option prefarrably&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-make-a-new-folder-on-ish-and-mount-it-to-the-obsidian-vault-just-created&#34;&gt;3. Make a new folder on ISH and mount it to the obsidian vault just created&lt;/h3&gt;&#xA;&lt;p&gt;On iSH, before opening obsidian, create  a folder either by pulling from git:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
